@@ -4,16 +4,6 @@
     <title>Categories on Nerd VS Baby</title>
     <link>https://nerdvsbaby.github.io/categories/</link>
     <description>Recent content in Categories on Nerd VS Baby</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Jan 2021 16:41:57 +0100</lastBuildDate><atom:link href="https://nerdvsbaby.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>https://nerdvsbaby.github.io/categories/test/</link>
-      <pubDate>Sun, 24 Jan 2021 16:41:57 +0100</pubDate>
-      
-      <guid>https://nerdvsbaby.github.io/categories/test/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://nerdvsbaby.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
