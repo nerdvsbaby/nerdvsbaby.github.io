@@ -4,6 +4,17 @@
     <title>Nerd VS Baby</title>
     <link>https://nerdvsbaby.github.io/</link>
     <description>Recent content on Nerd VS Baby</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://nerdvsbaby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jan 2021 15:48:08 +0100</lastBuildDate><atom:link href="https://nerdvsbaby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://nerdvsbaby.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 24 Jan 2021 15:48:08 +0100</pubDate>
+      
+      <guid>https://nerdvsbaby.github.io/posts/hello-world/</guid>
+      <description>Perché io mi sia lasciato convincere è la domanda alla quale non so ancora dare una risposta.
+Nuovo spazio web, opera (che non so se riceverà la giusta attenzione) ispirata da quella che racconta l&amp;rsquo;avventura di un cane alle prese con un nerd, Hugo avviato per la prima volta sul mio MacBook e tutto da imparare riguardo questo framework. GitHub attualmente ospiterà tutto quanto, non so quanto durerà e se un domani deciderò di portare tutto questo altrove o chiuderlo in un cassetto.</description>
+    </item>
+    
   </channel>
 </rss>
