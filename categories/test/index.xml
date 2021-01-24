@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nerd VS Baby</title>
-    <link>https://nerdvsbaby.github.io/</link>
-    <description>Recent content on Nerd VS Baby</description>
+    <title>test on Nerd VS Baby</title>
+    <link>https://nerdvsbaby.github.io/categories/test/</link>
+    <description>Recent content in test on Nerd VS Baby</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Jan 2021 16:41:57 +0100</lastBuildDate><atom:link href="https://nerdvsbaby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 16:41:57 +0100</lastBuildDate><atom:link href="https://nerdvsbaby.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prova2</title>
       <link>https://nerdvsbaby.github.io/posts/prova2/</link>
